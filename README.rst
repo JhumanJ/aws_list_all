@@ -1,6 +1,8 @@
 aws\_list\_all
 ==============
 
+> Notes: fake fork from [JohannesEbke/aws_list_all](https://github.com/JohannesEbke/aws_list_all). I added a script that generates a CSV export of the resources I'm interested in.
+
 List all resources in an AWS account, all regions, all services(*). Writes JSON files for further processing.
 
 (*) No guarantees for completeness. Use billing alerts if you are worried about costs.
